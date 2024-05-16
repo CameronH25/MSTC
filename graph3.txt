@@ -1,0 +1,5 @@
+hello hi 3
+lexington heyo 4
+lexingtonnn cinci 2
+cinci paris 30
+bravo echo 2
